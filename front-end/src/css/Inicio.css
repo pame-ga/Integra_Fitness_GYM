@@ -1,0 +1,11 @@
+*{
+    padding: 100px;
+    margin: 100px;
+}
+.fondo{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+     
+}
+

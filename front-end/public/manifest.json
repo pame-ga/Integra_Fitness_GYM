@@ -1,0 +1,66 @@
+{
+  "short_name": "Integra Fitness Gym",
+  "name": "IFG",
+  "lang": "en-Es",
+  "orientation": "portrait-primary",
+  "start_url": "./IntegraFitnessGym.com",
+  "display": "standalone",
+  "theme_color": "#2196f3",
+  "background_color": "#ffffff",
+
+  "icons": [
+    {
+      "src": "img/iconos/g48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "img/iconos/g512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+
+  ], 
+    "splash_Screens":[{
+      "name": "Integra Fitness Gym",
+      "scr":"/image/hom.gif",
+      "type": "image/gif",
+      "size":"350x197"
+    }]
+}
+

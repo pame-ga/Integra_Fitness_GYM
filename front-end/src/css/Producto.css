@@ -1,0 +1,39 @@
+.card-img-top-prod{
+     min-height: 300px;
+     max-height: 305px;
+     margin: auto;
+}
+.card-prod{
+     margin: 0.5rem;
+}
+.productos{
+align-content: center;
+align-items: center;
+}
+
+.title{
+     font-family:Forte;
+     display:flex;
+     align-items: center;
+}
+  
+
+.imgp{
+     width: 300px;
+     display: flex;
+     align-items: center;
+     align-content: center;
+}
+.tar{
+     display: flex;
+     flex-direction: row;
+     margin: 10px;
+     width: 100%;
+}
+.cardp{
+     display: flex;
+     margin: 2px;
+}
+
+
+

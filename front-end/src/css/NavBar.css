@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+}
+
+header{
+
+    background: linear-gradient(to, rgb(28, 28, 28), rgb(39, 39, 39));
+    
+
+}
+.title-nav{
+    color:white;
+    font-family: Forte;
+}
+
+.me-auto{
+    padding: 7px;
+    margin: 7px;
+    text-align: center;
+}
+
+.navbar-nav>a, .navbar-nav>.nav-item>a{
+color: white;
+font-family: Century Gothic;
+
+}
+.navbar-brand{
+    font-size: 1rem;
+}
+@media(min-width:720px){
+    .navbar-brand{
+        font-size: 3rem; 
+    }
+}
